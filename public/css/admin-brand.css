@@ -1,0 +1,18 @@
+.main-sidebar .brand-link {
+    display: flex;
+    align-items: center;
+    min-height: 58px;
+}
+
+.main-sidebar .brand-link .brand-image {
+    float: none;
+    margin: 0 0.5rem 0 0;
+    max-height: 30px;
+    width: auto;
+}
+
+.main-sidebar .brand-link .brand-text {
+    font-size: 0.98rem;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+}
